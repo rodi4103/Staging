@@ -1,0 +1,13 @@
+cd /
+cd /home
+cd /home/ubuntu
+cd ..
+cat filename
+sudo apt install git
+apt update
+useradd -m
+useradd name
+pwd
+vim filename
+3 files
+3 folders
